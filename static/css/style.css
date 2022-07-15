@@ -41,3 +41,27 @@
 .time-element {
   padding-top: 11px;
 }
+
+.progress {
+  height: 5px;
+  width: 150px;
+  display: inline-flex;
+  margin-left: 11px;
+  align-self: center;
+}
+
+.progress-slider {
+  height: 100%;
+  background-color: red;
+  border-radius: 30px;
+}
+
+.progress-slider-icon {
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  background-color: #f8104d;
+  border: 3px solid white;
+  align-self: center;
+  margin-left: -7px;
+}
