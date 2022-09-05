@@ -41,7 +41,8 @@
 }
 
 .time-element {
-  padding-top: 12px;
+  display: flex;
+  align-items: center;
 }
 
 .progress {
